@@ -1,0 +1,66 @@
+.main-slidebar{
+    display:none;
+    transition:all 0.5s;
+} 
+.imgslider{
+    width:100%;
+    height:500px;
+    position: relative;
+    background-color:#fefce8;
+}
+.todays-deal{
+    position: absolute;
+    bottom:0;
+    left:140px;
+    top:270px;
+   background-color: aliceblue;
+  color:black;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+.box{
+   width:300px;
+   height:350px;
+}
+.home-deal{
+    position: absolute;
+    bottom:0;
+    top:270px;
+    left:450px;
+   background-color: aliceblue;
+  color:black;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+.men-deal{
+    position: absolute;
+    bottom:0;
+    left:760px;
+    top:270px;
+   background-color: aliceblue;
+  color:black;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+.dowload-app{
+    position: absolute;
+    bottom:0;
+    left:1080px;
+    top:300px;
+   background-color: aliceblue;
+  color:black;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+
+
+.box1{
+    width:260px;
+    height:160px;
+}
+.close{
+    position: absolute;
+    top:0;
+    right:0;
+    margin:14px
+}
